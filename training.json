@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "label": "busqueda_hash",
+    "textdata": "Buscar amigos en comun entre Ana y Carlos en Facebook usando conjuntos"
+  },
+  {
+    "id": 2,
+    "label": "busqueda_hash",
+    "textdata": "Interseccion de dos listas de amigos guardando una en una tabla hash"
+  },
+  {
+    "id": 3,
+    "label": "busqueda_hash",
+    "textdata": "Calcular la posicion directamente a partir de una clave con funcion hash"
+  },
+  {
+    "id": 4,
+    "label": "busqueda_hash",
+    "textdata": "Buscar un producto en Amazon mediante un indice invertido en tiempo constante O(1)"
+  },
+  {
+    "id": 5,
+    "label": "busqueda_hash",
+    "textdata": "Comparar listas de adyacencia de dos usuarios en una red social con costo O(n+m)"
+  },
+  {
+    "id": 6,
+    "label": "busqueda_hash",
+    "textdata": "Convertir la lista de amigos de Ana en un conjunto para consultar en O(1)"
+  },
+  {
+    "id": 7,
+    "label": "busqueda_hash",
+    "textdata": "Localizar coincidencias exactas mediante buckets y claves hash sin recorrer todo el catalogo"
+  },
+  {
+    "id": 8,
+    "label": "busqueda_hash",
+    "textdata": "Verificar si Maria pertenece simultaneamente al conjunto de amigos de Ana y de Carlos"
+  },
+  {
+    "id": 9,
+    "label": "busqueda_hash",
+    "textdata": "Acceso directo a los datos mediante una funcion que transforma la clave en un indice"
+  },
+  {
+    "id": 10,
+    "label": "busqueda_hash",
+    "textdata": "Encontrar elementos compartidos entre dos nodos de un grafo usando una tabla hash"
+  },
+  {
+    "id": 11,
+    "label": "busqueda_binaria",
+    "textdata": "Buscar el contacto de Hugo en la agenda del telefono ordenada alfabeticamente"
+  },
+  {
+    "id": 12,
+    "label": "busqueda_binaria",
+    "textdata": "Dividir repetidamente a la mitad un arreglo ordenado para descartar la mitad de los datos"
+  },
+  {
+    "id": 13,
+    "label": "busqueda_binaria",
+    "textdata": "Comparar el valor buscado con el elemento central de una lista ordenada en tiempo O(log n)"
+  },
+  {
+    "id": 14,
+    "label": "busqueda_binaria",
+    "textdata": "Si el elemento del medio es menor que la clave buscada se descarta toda la mitad izquierda"
+  },
+  {
+    "id": 15,
+    "label": "busqueda_binaria",
+    "textdata": "Localizar un numero o palabra en un vector ordenado reduciendo el espacio de busqueda a la mitad"
+  },
+  {
+    "id": 16,
+    "label": "busqueda_binaria",
+    "textdata": "Requiere obligatoriamente que la coleccion de datos este ordenada antes de buscar"
+  },
+  {
+    "id": 17,
+    "label": "busqueda_binaria",
+    "textdata": "En una agenda de mil contactos encuentra cualquier nombre en maximo diez comparaciones"
+  },
+  {
+    "id": 18,
+    "label": "busqueda_binaria",
+    "textdata": "Calcular el indice medio entre inicio y fin hasta encontrar el elemento en el arreglo"
+  },
+  {
+    "id": 19,
+    "label": "busqueda_binaria",
+    "textdata": "Busqueda dicotomica que divide el intervalo de busqueda en dos partes iguales en cada paso"
+  },
+  {
+    "id": 20,
+    "label": "busqueda_binaria",
+    "textdata": "Descartar la mitad superior o inferior de una lista ordenada segun la comparacion central"
+  },
+  {
+    "id": 21,
+    "label": "busqueda_no_informada",
+    "textdata": "Encontrar la salida de un laberinto explorando las casillas nivel por nivel con BFS"
+  },
+  {
+    "id": 22,
+    "label": "busqueda_no_informada",
+    "textdata": "Busqueda a ciegas que no tiene informacion adicional ni estimacion de que tan cerca esta la meta"
+  },
+  {
+    "id": 23,
+    "label": "busqueda_no_informada",
+    "textdata": "Busqueda en amplitud BFS que utiliza una cola FIFO para hallar el camino con menos pasos"
+  },
+  {
+    "id": 24,
+    "label": "busqueda_no_informada",
+    "textdata": "Busqueda en profundidad DFS que avanza por una rama hasta el fondo usando una pila LIFO y hace backtracking"
+  },
+  {
+    "id": 25,
+    "label": "busqueda_no_informada",
+    "textdata": "Explorar un arbol o grafo sin heuristicas revisando todos los estados vecinos sistematicamente"
+  },
+  {
+    "id": 26,
+    "label": "busqueda_no_informada",
+    "textdata": "Un robot aspiradora recorre una rejilla sin conocer el mapa para llegar de la entrada a la salida"
+  },
+  {
+    "id": 27,
+    "label": "busqueda_no_informada",
+    "textdata": "Recorrer primero todos los nodos a un paso de distancia y luego los de dos pasos de distancia"
+  },
+  {
+    "id": 28,
+    "label": "busqueda_no_informada",
+    "textdata": "Algoritmo de busqueda no informada que solo sabe distinguir si ya llego al estado objetivo"
+  },
+  {
+    "id": 29,
+    "label": "busqueda_no_informada",
+    "textdata": "Avanzar por un camino del sudoku o laberinto hasta topar con pared y regresar al nodo anterior"
+  },
+  {
+    "id": 30,
+    "label": "busqueda_no_informada",
+    "textdata": "Busqueda exhaustiva por niveles o por ramas sin usar funciones de estimacion hacia el destino"
+  },
+  {
+    "id": 31,
+    "label": "busqueda_informada",
+    "textdata": "Calcular la ruta mas rapida en Google Maps combinando el tiempo recorrido y la distancia estimada"
+  },
+  {
+    "id": 32,
+    "label": "busqueda_informada",
+    "textdata": "Utilizar una funcion heuristica h(n) para guiar la busqueda hacia la meta de forma inteligente"
+  },
+  {
+    "id": 33,
+    "label": "busqueda_informada",
+    "textdata": "Algoritmo A estrella que evalua f(n) = g(n) + h(n) sumando el costo real y el costo estimado"
+  },
+  {
+    "id": 34,
+    "label": "busqueda_informada",
+    "textdata": "Busqueda heuristica que estima que tan cerca esta cada nodo del destino final para expandir menos nodos"
+  },
+  {
+    "id": 35,
+    "label": "busqueda_informada",
+    "textdata": "Busqueda voraz o codiciosa Greedy que elige siempre el vecino que parece estar mas cerca del objetivo"
+  },
+  {
+    "id": 36,
+    "label": "busqueda_informada",
+    "textdata": "Ascenso de colinas Hill Climbing que se mueve hacia el mejor vecino inmediato buscando optimizar una senal"
+  },
+  {
+    "id": 37,
+    "label": "busqueda_informada",
+    "textdata": "Encontrar el camino optimo entre Casa y Destino en un mapa vial usando distancia en linea recta como guia"
+  },
+  {
+    "id": 38,
+    "label": "busqueda_informada",
+    "textdata": "Priorizar los caminos mas prometedores hacia la meta mediante conocimiento adicional del problema"
+  },
+  {
+    "id": 39,
+    "label": "busqueda_informada",
+    "textdata": "Navegacion GPS que combina el costo acumulado de las calles con una estimacion directa al destino"
+  },
+  {
+    "id": 40,
+    "label": "busqueda_informada",
+    "textdata": "Busqueda informada que reduce el espacio explorado usando atajos mentales o reglas heuristicas"
+  },
+  {
+    "id": 41,
+    "label": "busqueda_hash",
+    "textdata": "Definicion: metodo de busqueda que utiliza una funcion matematica hash para transformar una clave en una direccion o indice directo dentro de una tabla"
+  },
+  {
+    "id": 42,
+    "label": "busqueda_hash",
+    "textdata": "Caracteristicas: tiempo de busqueda constante O(1) en promedio no requiere datos ordenados maneja colisiones por encadenamiento o direccionamiento abierto"
+  },
+  {
+    "id": 43,
+    "label": "busqueda_hash",
+    "textdata": "Algoritmos especificos: busqueda por tabla hash hashing abierto hashing cerrado indice invertido e interseccion de conjuntos con hash"
+  },
+  {
+    "id": 44,
+    "label": "busqueda_hash",
+    "textdata": "Ejemplo real: sugerencias de amigos en comun en redes sociales como Facebook e Instagram comparando conjuntos de adyacencia"
+  },
+  {
+    "id": 45,
+    "label": "busqueda_hash",
+    "textdata": "Ejemplo real: buscador de tienda en linea como Amazon o Mercado Libre que asocia cada palabra clave a una lista de productos en un bucket"
+  },
+  {
+    "id": 46,
+    "label": "busqueda_hash",
+    "textdata": "Estructura de datos: tabla hash diccionario mapa clave valor conjunto set y listas de adyacencia indexadas"
+  },
+  {
+    "id": 47,
+    "label": "busqueda_hash",
+    "textdata": "Cuando dos claves distintas generan el mismo indice ocurre una colision y se resuelve dentro del mismo bucket"
+  },
+  {
+    "id": 48,
+    "label": "busqueda_hash",
+    "textdata": "Operacion de interseccion A interseccion B entre los vecinos del nodo Ana u01 y el nodo Carlos u02 en un grafo social"
+  },
+  {
+    "id": 49,
+    "label": "busqueda_hash",
+    "textdata": "Busqueda exacta por identificador unico ID o clave sin necesidad de comparar elemento por elemento"
+  },
+  {
+    "id": 50,
+    "label": "busqueda_hash",
+    "textdata": "Ventaja principal: reduce un millón de comparaciones de fuerza bruta O(n*m) a solo miles de consultas instantaneas O(n+m)"
+  },
+  {
+    "id": 51,
+    "label": "busqueda_binaria",
+    "textdata": "Definicion: algoritmo eficiente que localiza un elemento en una lista ordenada comparando siempre con la posicion central y dividiendo el intervalo en dos"
+  },
+  {
+    "id": 52,
+    "label": "busqueda_binaria",
+    "textdata": "Caracteristicas: complejidad temporal logaritmica O(log n) complejidad espacial O(1) iterativa y condicion indispensable de orden previo en el arreglo"
+  },
+  {
+    "id": 53,
+    "label": "busqueda_binaria",
+    "textdata": "Algoritmos especificos: busqueda binaria busqueda dicotomica busqueda por interpolacion y busqueda exponencial en arreglos ordenados"
+  },
+  {
+    "id": 54,
+    "label": "busqueda_binaria",
+    "textdata": "Ejemplo real: buscar una palabra en un diccionario fisico abriendo el libro a la mitad y decidiendo si ir antes o despues alfabeticamente"
+  },
+  {
+    "id": 55,
+    "label": "busqueda_binaria",
+    "textdata": "Ejemplo real: localizar un folio o matricula estudiantil dentro de un padron numerico ordenado de menor a mayor"
+  },
+  {
+    "id": 56,
+    "label": "busqueda_binaria",
+    "textdata": "Usa tres punteros o indices llamados inicio medio y fin para acotar el subarreglo donde puede estar el dato"
+  },
+  {
+    "id": 57,
+    "label": "busqueda_binaria",
+    "textdata": "Si el valor central es mayor que el elemento buscado el nuevo limite final pasa a ser medio menos uno"
+  },
+  {
+    "id": 58,
+    "label": "busqueda_binaria",
+    "textdata": "Si el valor central es menor que el elemento buscado el nuevo limite inicial pasa a ser medio mas uno"
+  },
+  {
+    "id": 59,
+    "label": "busqueda_binaria",
+    "textdata": "Estructura de datos: arreglo unidimensional vector estatico o lista indexada ordenada ascendente o descendentemente"
+  },
+  {
+    "id": 60,
+    "label": "busqueda_binaria",
+    "textdata": "Divide y venceras aplicado a la localizacion de claves reduciendo exponencialmente el numero de comparaciones necesarias"
+  },
+  {
+    "id": 61,
+    "label": "busqueda_no_informada",
+    "textdata": "Definicion: estrategias de busqueda ciega que recorren el espacio de estados siguiendo un orden fijo sin informacion del dominio ni pistas sobre la ubicacion de la meta"
+  },
+  {
+    "id": 62,
+    "label": "busqueda_no_informada",
+    "textdata": "Caracteristicas: no utiliza funcion heuristica explora sistematicamente el grafo o arbol de busqueda con complejidad O(V + E)"
+  },
+  {
+    "id": 63,
+    "label": "busqueda_no_informada",
+    "textdata": "Algoritmos especificos: busqueda en amplitud BFS Breadth First Search busqueda en profundidad DFS Depth First Search busqueda de costo uniforme UCS y busqueda bidireccional"
+  },
+  {
+    "id": 64,
+    "label": "busqueda_no_informada",
+    "textdata": "Ejemplo real: resolver un rompecabezas o cubo Rubik probando movimientos posibles nivel por nivel sin saber cual acerca mas al resultado"
+  },
+  {
+    "id": 65,
+    "label": "busqueda_no_informada",
+    "textdata": "Ejemplo real: crawler o rastreador web que visita enlaces pagina por pagina siguiendo la estructura de arbol de un sitio"
+  },
+  {
+    "id": 66,
+    "label": "busqueda_no_informada",
+    "textdata": "BFS garantiza encontrar el camino mas corto en numero de pasos o aristas cuando todos los movimientos tienen el mismo costo"
+  },
+  {
+    "id": 67,
+    "label": "busqueda_no_informada",
+    "textdata": "DFS consume menos memoria porque solo almacena la rama actual en una pila LIFO y retrocede mediante vuelta atras backtracking"
+  },
+  {
+    "id": 68,
+    "label": "busqueda_no_informada",
+    "textdata": "Busqueda de costo uniforme UCS expande siempre el nodo con menor costo acumulado g(n) sin usar estimacion hacia la meta"
+  },
+  {
+    "id": 69,
+    "label": "busqueda_no_informada",
+    "textdata": "Estructura de datos: grafos no ponderados arboles de estados rejillas matrices de laberinto colas FIFO y pilas LIFO"
+  },
+  {
+    "id": 70,
+    "label": "busqueda_no_informada",
+    "textdata": "Clasificacion de inteligencia artificial donde el agente solo conoce el estado inicial las acciones validas y la prueba de objetivo"
+  },
+  {
+    "id": 71,
+    "label": "busqueda_informada",
+    "textdata": "Definicion: algoritmos de busqueda heuristica que aprovechan informacion especifica del problema para estimar que estados son mas prometedores y llegar rapido a la solucion"
+  },
+  {
+    "id": 72,
+    "label": "busqueda_informada",
+    "textdata": "Caracteristicas: emplea una funcion de evaluacion heuristica h(n) disminuye drasticamente los nodos expandidos y logra optimalidad si la heuristica es admisible"
+  },
+  {
+    "id": 73,
+    "label": "busqueda_informada",
+    "textdata": "Algoritmos especificos: algoritmo A estrella A* busqueda voraz primero el mejor Greedy Best First Search ascenso de colinas Hill Climbing IDA estrella y Minimax"
+  },
+  {
+    "id": 74,
+    "label": "busqueda_informada",
+    "textdata": "Ejemplo real: aplicaciones de navegacion como Google Maps y Waze que calculan el trayecto de menor tiempo entre dos puntos de la ciudad"
+  },
+  {
+    "id": 75,
+    "label": "busqueda_informada",
+    "textdata": "Ejemplo real: inteligencia artificial de videojuegos pathfinding donde un personaje esquiva obstaculos dirigiendose directo hacia el jugador con A*"
+  },
+  {
+    "id": 76,
+    "label": "busqueda_informada",
+    "textdata": "Formula clave f(n) igual a g(n) mas h(n) donde g(n) es el costo real acumulado desde el inicio y h(n) es la distancia estimada a la meta"
+  },
+  {
+    "id": 77,
+    "label": "busqueda_informada",
+    "textdata": "Hill Climbing ajusta parametros paso a paso hacia el vecino de mayor valor pero puede quedar atrapado en maximos locales o mesetas"
+  },
+  {
+    "id": 78,
+    "label": "busqueda_informada",
+    "textdata": "Distancia Manhattan o distancia euclidiana en linea recta utilizadas como heuristicas para estimar cuanto falta para llegar al objetivo"
+  },
+  {
+    "id": 79,
+    "label": "busqueda_informada",
+    "textdata": "Estructura de datos: grafo ponderado con pesos en las aristas y cola de prioridad ordenada por el menor valor de f(n) o h(n)"
+  },
+  {
+    "id": 80,
+    "label": "busqueda_informada",
+    "textdata": "Busqueda guiada con conocimiento del dominio que evita explorar ramas inutiles del arbol de estados"
+  }
+]

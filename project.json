@@ -1,0 +1,17 @@
+{
+  "id": "projectid",
+  "userid": "userid",
+  "classid": "classid",
+  "type": "text",
+  "name": "AlgoritmosDeBusqedaIdentificar",
+  "labels": [
+    "busqueda_hash",
+    "busqueda_binaria",
+    "busqueda_no_informada",
+    "busqueda_informada"
+  ],
+  "language": "es",
+  "numfields": 0,
+  "fields": [],
+  "isCrowdSourced": false
+}
